@@ -1,0 +1,130 @@
+La producción musical es el proceso de crear, grabar, editar, mezclar y masterizar música.
+
+Un DAW (Digital Audio Workstation) es un software usado para producir música. Algunos DAWs populares son FL Studio, Ableton Live, Logic Pro y Pro Tools.
+
+La mezcla musical consiste en balancear los elementos de una canción como voces, batería, bajo y melodías.
+
+La masterización es el proceso final de optimización de una canción para distribución.
+
+El clipping ocurre cuando el audio supera 0 dB y produce distorsión.
+
+El headroom es el espacio de volumen disponible antes del clipping.
+
+El ecualizador (EQ) se usa para aumentar o reducir frecuencias específicas de un sonido.
+
+Las frecuencias bajas generalmente están entre 20 Hz y 250 Hz.
+
+Las frecuencias medias generalmente están entre 250 Hz y 4000 Hz.
+
+Las frecuencias altas generalmente están entre 4000 Hz y 20000 Hz.
+
+Un compresor reduce el rango dinámico de un audio.
+
+El threshold en un compresor determina desde qué volumen comienza la compresión.
+
+El ratio en un compresor determina cuánta compresión se aplicará.
+
+El attack controla qué tan rápido actúa el compresor.
+
+El release controla cuánto tarda el compresor en dejar de actuar.
+
+La reverb agrega sensación de espacio o ambiente.
+
+El delay crea repeticiones de una señal de audio.
+
+El paneo permite posicionar sonidos a la izquierda o derecha del estéreo.
+
+El sidechain compression reduce automáticamente el volumen de un sonido usando otro como referencia.
+
+El kick y el bajo suelen competir en frecuencias bajas.
+
+La saturación agrega armónicos y color al sonido.
+
+El limiter evita que el audio sobrepase un nivel máximo.
+
+El LUFS es una medida de volumen percibido.
+
+Spotify normaliza el audio aproximadamente a -14 LUFS.
+
+La ganancia de entrada excesiva puede producir distorsión.
+
+El gain staging es el manejo correcto de niveles de volumen durante una mezcla.
+
+MIDI es información digital que representa notas y parámetros musicales.
+
+Un VST es un plugin virtual utilizado en producción musical.
+
+Los sintetizadores generan sonidos electrónicamente.
+
+La síntesis sustractiva consiste en eliminar frecuencias desde una onda rica en armónicos.
+
+Los osciladores generan la señal base en un sintetizador.
+
+Un filtro low-pass elimina frecuencias altas.
+
+Un filtro high-pass elimina frecuencias bajas.
+
+La automatización permite cambiar parámetros automáticamente a lo largo del tiempo.
+
+El tempo de una canción se mide en BPM.
+
+El metrónomo ayuda a mantener el tiempo musical.
+
+La latencia es el retraso entre entrada y salida de audio.
+
+Una interfaz de audio mejora la calidad y reduce la latencia.
+
+La frecuencia de muestreo estándar suele ser 44.1 kHz o 48 kHz.
+
+La profundidad de bits afecta el rango dinámico del audio digital.
+
+24 bits ofrece mayor rango dinámico que 16 bits.
+
+La distorsión puede ser un efecto creativo o un problema técnico.
+
+La afinación vocal puede corregirse usando herramientas como Auto-Tune o Melodyne.
+
+El layering consiste en combinar múltiples sonidos para crear uno más complejo.
+
+El clipping digital generalmente es indeseado.
+
+La compresión paralela mezcla señal comprimida con señal original.
+
+El mastering prepara una canción para diferentes sistemas de reproducción.
+
+Los monitores de estudio buscan reproducir sonido de forma neutral.
+
+Los audífonos de consumo suelen colorear el sonido.
+
+La acústica de una sala afecta significativamente la mezcla.
+
+Los paneles acústicos ayudan a controlar reflexiones de sonido.
+
+La cadena típica de producción es:
+composición → grabación → edición → mezcla → masterización.
+
+El ruido de fondo puede reducirse usando noise gates o edición manual.
+
+El autotune en tiempo real puede usarse como efecto artístico.
+
+La música trap suele usar hi-hats rápidos y bajos 808.
+
+El 808 es un tipo de kick o bajo derivado de la Roland TR-808.
+
+La mezcla mono permite detectar problemas de fase.
+
+Los problemas de fase pueden causar cancelaciones de frecuencias.
+
+La referencia musical consiste en comparar una mezcla con canciones profesionales.
+
+El dithering se usa al reducir profundidad de bits en mastering.
+
+La exportación final suele hacerse en WAV o MP3.
+
+WAV es un formato sin pérdida de calidad.
+
+MP3 es un formato comprimido con pérdida de calidad.
+
+El sample rate define cuántas muestras por segundo captura el audio digital.
+
+La producción musical moderna puede realizarse completamente dentro de un computador.
