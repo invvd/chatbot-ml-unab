@@ -62,16 +62,21 @@ export default function Home() {
         const decoder = new TextDecoder();
 
         let assistantText = "";
+        let buffer = "";
 
         while (true) {
           const { done, value } = await reader.read();
 
           if (done) break;
 
-          const chunk = decoder.decode(value);
+          // agregar chunk al buffer
+          buffer += decoder.decode(value, { stream: true });
 
-          // ollama devuelve json por línea
-          const lines = chunk.split("\n");
+          // separar por líneas
+          const lines = buffer.split("\n");
+
+          // guardar última línea incompleta
+          buffer = lines.pop() || "";
 
           for (const line of lines) {
             if (!line.trim()) continue;
@@ -81,7 +86,6 @@ export default function Home() {
 
               assistantText += parsed.response || "";
 
-              // actualizar último mensaje
               setMessages((prev) => {
                 const updated = [...prev];
 
@@ -93,7 +97,7 @@ export default function Home() {
                 return updated;
               });
             } catch (err) {
-              console.error(err);
+              console.error("JSON parse error:", err);
             }
           }
         }
