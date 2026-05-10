@@ -124,7 +124,9 @@ export default function Home() {
       <h1 className="text-4xl font-bold text-white">Chatbot - Enunciado 2</h1>
 
       {/* Subtítulo */}
-      <p className="text-lg text-neutral-400 mb-8">
+      <p className="text-lg text-white/80">Tema: Producción Musical</p>
+      {/* Subtítulo */}
+      <p className="text-lg text-neutral-500 mb-8">
         Daniel Mass Jamet - Martín Díaz Muñoz
       </p>
 

@@ -8,7 +8,7 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "Chatbot - Enunciado 2",
+  title: "Chatbot Prod. Musical - Enunciado 2",
   description: "Daniel Mass y Martin Diaz",
 };
 
@@ -18,7 +18,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${geistSans.variable} h-full antialiased`}>
+    <html lang="es" className={`${geistSans.variable} h-full antialiased`}>
       <body className="h-full flex flex-col p-6">{children}</body>
     </html>
   );
